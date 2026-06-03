@@ -13,7 +13,7 @@ Este proyecto tiene como objetivo crear una página web que pueda utilizarse com
 
   - index.html — Página principal con el panel de accesos rápidos.
   - /icons — Recursos como iconos, imágenes o estilos.
-  - style.css — Estilos principales de la página.
+  - style.css — Estilos principales de la página. (.. por el momento no es necesario)
 
 🎯 Objetivo del proyecto
 
