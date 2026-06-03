@@ -12,7 +12,7 @@ Este proyecto tiene como objetivo crear una página web que pueda utilizarse com
 📂 Estructura del repositorio
 
   - index.html — Página principal con el panel de accesos rápidos.
-  - /assets — Recursos como iconos, imágenes o estilos.
+  - /icons — Recursos como iconos, imágenes o estilos.
   - style.css — Estilos principales de la página.
 
 🎯 Objetivo del proyecto
